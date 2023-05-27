@@ -32,3 +32,20 @@ else:
   print("No,it's diff")
 
 ```
+## Loops:
+* the loop is used to repeat a block of code specific times.
+* we can use for , while.
+* A for loop is used for iterating over a sequence already specified.
+```
+names = ["sara", "nora", "amal"]
+for i in names:
+  print(i) 
+  
+```
+* While loop is used to execute a block of code while the condition is true.
+```
+i = 0
+while i < 6:
+  print(i)
+  i += 1
+  ```
