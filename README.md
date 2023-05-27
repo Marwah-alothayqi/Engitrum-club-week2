@@ -60,4 +60,14 @@ while i < 6:
 printfun()
 
  ```
+ ## Exeption handling:
+ * Is used when we expect errors to avoid crushing the program, the syntax starts with "try" which contains the code want to test, then "except "contains handling for errors, last "finally " contain a block of code executed regardless of the result of the try- and except blocks.
+ ```
+ #because x is not defined ,,the except block will generate:
+
+try:
+  print(y)
+except:
+  print("An exception occurred")
+ ```
  
