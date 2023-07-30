@@ -1,5 +1,5 @@
 # Engitrum-club-week2
-### Through this week 6 concepts of python programming was covered which are:
+### Throughout this week 6 concepts of python programming were covered which are:
 * sets.
 * condition and branching.
 * loops.
